@@ -88,19 +88,19 @@ I would truly appreciate any guidance, feedback, or opportunities you might be w
 
 ---
 
-# 📫 Contact Me
+#  Contact Me
 
-<div align="center" style="display: flex; justify-content: center; gap: 30px;">
+<div align="left" style="display: flex; justify-content: center; gap: 30px;">
 
   <a href="mailto:yourname@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40" />
-  </a>
+  </a> <br> <br> 
 
   <a href="https://github.com/Tyaswanth9/my-protfolio-git-hub.git" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
-  </a>
+  </a> <br> <br> 
 
-  <a href="https://linkedin.com/in/your-username" target="_blank" rel="noopener noreferrer">
+  <a href="www.linkedin.com/in/yaswanth-naga-sai-tadiboina-0a4749360" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
   </a>
 
