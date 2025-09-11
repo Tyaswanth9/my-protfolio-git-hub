@@ -92,7 +92,7 @@ I would truly appreciate any guidance, feedback, or opportunities you might be w
 
 📧 Gmail
 <br>
-🐙 GitHub 
+🐙 GitHub: https://github.com/Tyaswanth9/my-protfolio-git-hub.git 
 <br>
 🔗 LinkedIn: www.linkedin.com/in/yaswanth-naga-sai-tadiboina-0a4749360
 
