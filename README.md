@@ -96,7 +96,7 @@ I would truly appreciate any guidance, feedback, or opportunities you might be w
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40" />
   </a>
 
-  <a href="https://github.com/your-username" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/Tyaswanth9/my-protfolio-git-hub.git" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
   </a>
 
