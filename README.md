@@ -88,13 +88,24 @@ I would truly appreciate any guidance, feedback, or opportunities you might be w
 
 ---
 
-##  Contact Me
+# 📫 Contact Me
 
-📧 Gmail
-<br>
-🐙 GitHub: https://github.com/Tyaswanth9/my-protfolio-git-hub.git 
-<br>
-🔗 LinkedIn: www.linkedin.com/in/yaswanth-naga-sai-tadiboina-0a4749360
+<div align="center" style="display: flex; justify-content: center; gap: 30px;">
+
+  <a href="mailto:yourname@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40" />
+  </a>
+
+  <a href="https://github.com/your-username" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+  </a>
+
+  <a href="https://linkedin.com/in/your-username" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+  </a>
+
+</div>
+
 
 
 
