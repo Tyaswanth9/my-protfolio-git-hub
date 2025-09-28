@@ -78,7 +78,7 @@ I would truly appreciate any guidance, feedback, or opportunities you might be w
 #  [E-Commerce data Analysis End-to-End project ](https://github.com/Tyaswanth9/E-commerce-dataanalysis-project.git)
 <div align="center">
   <a href="https://github.com/Tyaswanth9/E-commerce-dataanalysis-project.git" target="_blank">
-    <img src="https://github.com/Tyaswanth9/my-protfolio-website/blob/myself/screenshots/cover%20imges/e-commerce.jpg" alt="E-commerce analisis cover image" width="800px" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);">
+    <img src="https://raw.githubusercontent.com/Tyaswanth9/my-protfolio-website/refs/heads/myself/screenshots/cover%20imges/e-comerce_3.jpg" alt="E-commerce analisis cover image" width="800px" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);">
   </a>
 </div>
 <p align="center">
