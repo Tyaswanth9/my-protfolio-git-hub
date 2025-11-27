@@ -93,8 +93,7 @@ I would truly appreciate any guidance, feedback, or opportunities you might be w
 <div align="center">
   <a href="https://github.com/Tyaswanth9/Hospital-Patient-Data-Analysis-Project.git" target="_blank">
     <img src="https://raw.githubusercontent.com/Tyaswanth9/my-protfolio-website/refs/heads/myself/screenshots/cover%20imges/hospital.jpg" alt="Crowdfunding Data Analysis cover image" width="800px" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);">
-      onmouseover="this.style.transform='scale(1.05)'; this.style.opacity='0.8';" 
-      onmouseout="this.style.transform='scale(1)'; this.style.opacity='1';"
+      
   </a>
 </div>
 <p align="center">
